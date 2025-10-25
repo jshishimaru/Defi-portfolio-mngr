@@ -42,7 +42,7 @@ An opinionated reference agent for DeFi/crypto portfolio tooling, built on top o
 ```bash
 # Clone the repository
 git clone https://github.com/jshishimaru/Defi-portfolio-mngr
-cd EthGlobal-Defi-Portfolio-Manager/basic_agent
+cd Defi-portfolio-mngr/basic_agent
 
 # Create and activate the virtualenv (Linux/macOS)
 python3 -m venv .venv
@@ -61,9 +61,7 @@ EOF
 python -m basic_agent.agent
 ```
 
-> **Why run as a module?** Executing `python -m basic_agent.agent` ensures Python treats `basic_agent` as a package, preventing the "attempted relative import" error you might see with `python3 agent.py`.
 
----
 
 
 
