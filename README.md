@@ -41,7 +41,7 @@ An opinionated reference agent for DeFi/crypto portfolio tooling, built on top o
 
 ```bash
 # Clone the repository
-git clone https://github.com/Nitinn-Rajj/EthGlobal-Defi-Portfolio-Manager.git
+git clone https://github.com/jshishimaru/Defi-portfolio-mngr
 cd EthGlobal-Defi-Portfolio-Manager/basic_agent
 
 # Create and activate the virtualenv (Linux/macOS)
